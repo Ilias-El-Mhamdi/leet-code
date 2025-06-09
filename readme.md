@@ -1,8 +1,8 @@
-# Leet Code 
+# Leet Code
 
 #### -  https://leetcode.com/
 
-Ce site contient beaucoup de problème d'algo qui sont souvent poser en entrient
+Ce site contient beaucoup de problèmes d'algo qui sont souvent posé en entretient
 
 #### - https://neetcode.io/roadmap
 
