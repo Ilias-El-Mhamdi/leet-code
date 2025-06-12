@@ -9,7 +9,7 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 
 import {solutions} from "./climbing-stairs";
 
-describe.each(solutions)("verify contains duplicate", ({name, solution}) => {
+describe.each(solutions)("verify climbing-stairs", ({name, solution}) => {
     describe(name, () => {
 
         it("should return 1 for n = 1", () => {
